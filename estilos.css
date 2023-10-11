@@ -21,6 +21,10 @@
     scroll-behavior: smooth;
 }
 
+html {
+    overflow-x: hidden;
+}
+
 /* Body */
 body {
     background: var(--sand);
