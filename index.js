@@ -6,8 +6,8 @@ const swiper = new Swiper('.swiper-hero', {
     effect: "fade",
     loop: true,
     autoplay: {
-        delay: 5000,
-        disableOnInteraction: true,
+        delay: 4000,
+        disableOnInteraction: false,
     },
 });
 
@@ -20,7 +20,7 @@ const swiper2 = new Swiper('.swiper-clientes', {
     effect: "flip",
     autoplay: {
         delay: 4000,
-        disableOnInteraction: false,
+        disableOnInteraction: true,
     },
     navigation: {
         nextEl: '.swiper-button-next',
