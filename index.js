@@ -17,7 +17,6 @@ const swiper2 = new Swiper('.swiper-clientes', {
     slidesPerView: 1,
     spaceBetween: 0,
     loop: true,
-    effect: "flip",
     autoplay: {
         delay: 4000,
         disableOnInteraction: true,
