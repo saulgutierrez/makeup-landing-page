@@ -645,6 +645,10 @@ header.active nav a:hover {
         max-width: 300px;
     }
 
+    .textura1 {
+        left: 70px;
+    }
+
     .textura2 {
         top: 350px;
         left: -70px;
