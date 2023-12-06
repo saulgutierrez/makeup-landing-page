@@ -9,3 +9,5 @@ Technologies used:
 <li>Boxicons</li>
 <li>Google Fonts</li>
 <li>Swiper.js</li>
+
+![image](https://github.com/saulgutierrez/makeup-landing-page/assets/62368834/8ea54122-43ec-4ada-850a-c95249f62f7f)
